@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Vision_Login_01</string>
+    <string name="logo">Vision Eye</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="register_btn">Register</string>
+    <string name="teacher_switch">Teacher</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_name_">Name</string>
+    <string name="enter_roll">Enrollment No.</string>
+    <string name="enter_password">Password</string>
+    <string name="enter_password_final">Confirm Password</string>
+    <string name="next_btn">Next</string>
+    <string name="qr_gen">Generate QR</string>
+    <string name="qr_scan">Scan QR</string>
+    <string name="view_reports">View Reports</string>
+    <string name="download_reports">Download File</string>
+    <string name="about">About</string>
+    <string name="contact_us">Help Centre</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password too short or does not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_enrollment_no">Invalid Enrollment Number</string>
+
+
+</resources>

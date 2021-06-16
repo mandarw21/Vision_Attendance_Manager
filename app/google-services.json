@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8356305565",
+    "firebase_url": "https://skidoosh-c57c4.firebaseio.com",
+    "project_id": "skidoosh-c57c4",
+    "storage_bucket": "skidoosh-c57c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8356305565:android:dfb1503d6a5a7e23",
+        "android_client_info": {
+          "package_name": "com.example.darkarmy.vision_login_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8356305565-cur2pk9f5gofgakcglsgnpqcdet0b47g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.darkarmy.vision_login_01",
+            "certificate_hash": "8a0723f43c43db19a88168923a86c09ec357bc62"
+          }
+        },
+        {
+          "client_id": "8356305565-tr9soeon43i3l7rnr08mfm1qdoc3s61l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqk8yUZVr-5NTa04Z2el3phDVxZpubaw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8356305565-tr9soeon43i3l7rnr08mfm1qdoc3s61l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
